@@ -1,0 +1,3472 @@
+[
+    {
+        "id": "1715",
+        "primary type": "fairy",
+        "secondary type": "steel",
+        "offensive score": 0,
+        "defensive score": 10,
+        "vulnerabilities": [
+            "fire",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "id": "159",
+        "primary type": "steel",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 9.80392156862745,
+        "vulnerabilities": [
+            "fire",
+            "electric"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "poison",
+            "ground",
+            "flying",
+            "psychic",
+            "bug",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1513",
+        "primary type": "steel",
+        "secondary type": "ghost",
+        "offensive score": 0,
+        "defensive score": 9.215686274509803,
+        "vulnerabilities": [
+            "fire",
+            "ground",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "fighting",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1514",
+        "primary type": "steel",
+        "secondary type": "dragon",
+        "offensive score": 0,
+        "defensive score": 9.215686274509803,
+        "vulnerabilities": [
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "water",
+            "grass",
+            "electric",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "steel"
+        ]
+    },
+    {
+        "id": "152",
+        "primary type": "steel",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 9.019607843137255,
+        "vulnerabilities": [
+            "electric",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "water",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "130",
+        "primary type": "ghost",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 8.627450980392158,
+        "vulnerabilities": [
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "poison",
+            "bug",
+            "ghost"
+        ]
+    },
+    {
+        "id": "1515",
+        "primary type": "steel",
+        "secondary type": "steel",
+        "offensive score": 0,
+        "defensive score": 8.627450980392158,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "156",
+        "primary type": "steel",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 8.235294117647058,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "1613",
+        "primary type": "dark",
+        "secondary type": "ghost",
+        "offensive score": 0,
+        "defensive score": 8.235294117647058,
+        "vulnerabilities": [
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "poison",
+            "psychic"
+        ]
+    },
+    {
+        "id": "157",
+        "primary type": "steel",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 8.03921568627451,
+        "vulnerabilities": [
+            "fire",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "158",
+        "primary type": "steel",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 8.03921568627451,
+        "vulnerabilities": [
+            "fire",
+            "water",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "electric",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1511",
+        "primary type": "steel",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 8.03921568627451,
+        "vulnerabilities": [
+            "fire"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "psychic",
+            "bug",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "150",
+        "primary type": "steel",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 7.8431372549019605,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "ghost",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "154",
+        "primary type": "steel",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 7.8431372549019605,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "electric",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "167",
+        "primary type": "dark",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 7.8431372549019605,
+        "vulnerabilities": [
+            "ground"
+        ],
+        "resistances": [
+            "grass",
+            "poison",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "151",
+        "primary type": "steel",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 7.647058823529411,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "153",
+        "primary type": "steel",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 7.647058823529411,
+        "vulnerabilities": [
+            "fire",
+            "fighting"
+        ],
+        "resistances": [
+            "normal",
+            "water",
+            "grass",
+            "electric",
+            "poison",
+            "psychic",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1510",
+        "primary type": "steel",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 7.647058823529411,
+        "vulnerabilities": [
+            "fire",
+            "ground",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1713",
+        "primary type": "fairy",
+        "secondary type": "ghost",
+        "offensive score": 0,
+        "defensive score": 7.647058823529411,
+        "vulnerabilities": [
+            "ghost",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "bug",
+            "dragon"
+        ]
+    },
+    {
+        "id": "94",
+        "primary type": "flying",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 7.450980392156863,
+        "vulnerabilities": [
+            "ice",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "flying",
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": "134",
+        "primary type": "ghost",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 7.450980392156863,
+        "vulnerabilities": [
+            "ground",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "electric",
+            "fighting",
+            "poison",
+            "flying",
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": "1615",
+        "primary type": "dark",
+        "secondary type": "steel",
+        "offensive score": 0,
+        "defensive score": 7.450980392156863,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "rock",
+            "ghost",
+            "dragon",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "174",
+        "primary type": "fairy",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 7.450980392156863,
+        "vulnerabilities": [
+            "poison",
+            "ground"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "flying",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "70",
+        "primary type": "poison",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "ground",
+            "psychic"
+        ],
+        "resistances": [
+            "grass",
+            "poison",
+            "bug",
+            "ghost",
+            "fairy"
+        ]
+    },
+    {
+        "id": "72",
+        "primary type": "poison",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "electric",
+            "ground",
+            "psychic"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "fighting",
+            "poison",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "132",
+        "primary type": "ghost",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "water",
+            "ice",
+            "fighting",
+            "poison",
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": "1313",
+        "primary type": "ghost",
+        "secondary type": "ghost",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "poison",
+            "bug"
+        ]
+    },
+    {
+        "id": "170",
+        "primary type": "fairy",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "poison",
+            "steel"
+        ],
+        "resistances": [
+            "bug",
+            "ghost",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "172",
+        "primary type": "fairy",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "poison"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "fighting",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "177",
+        "primary type": "fairy",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 7.058823529411765,
+        "vulnerabilities": [
+            "ground",
+            "psychic",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "bug",
+            "dragon",
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "id": "42",
+        "primary type": "electric",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 6.862745098039216,
+        "vulnerabilities": [
+            "grass",
+            "ground"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "flying",
+            "steel"
+        ]
+    },
+    {
+        "id": "131",
+        "primary type": "ghost",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.862745098039216,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "grass",
+            "ice",
+            "fighting",
+            "poison",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "171",
+        "primary type": "fairy",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.862745098039216,
+        "vulnerabilities": [
+            "water",
+            "poison",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "fighting",
+            "bug",
+            "dragon",
+            "dark",
+            "fairy"
+        ]
+    },
+    {
+        "id": "40",
+        "primary type": "electric",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "electric",
+            "flying",
+            "ghost",
+            "steel"
+        ]
+    },
+    {
+        "id": "44",
+        "primary type": "electric",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "ground"
+        ],
+        "resistances": [
+            "electric",
+            "flying",
+            "steel"
+        ]
+    },
+    {
+        "id": "77",
+        "primary type": "poison",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "ground",
+            "psychic"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "poison",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "137",
+        "primary type": "ghost",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "ground",
+            "psychic",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "fighting",
+            "poison",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1714",
+        "primary type": "fairy",
+        "secondary type": "dragon",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "ice",
+            "poison",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "1717",
+        "primary type": "fairy",
+        "secondary type": "fairy",
+        "offensive score": 0,
+        "defensive score": 6.666666666666666,
+        "vulnerabilities": [
+            "poison",
+            "steel"
+        ],
+        "resistances": [
+            "fighting",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "21",
+        "primary type": "water",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.470588235294118,
+        "vulnerabilities": [
+            "electric",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "ice",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "97",
+        "primary type": "flying",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 6.470588235294118,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "psychic",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "poison",
+            "ground",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1716",
+        "primary type": "fairy",
+        "secondary type": "dark",
+        "offensive score": 0,
+        "defensive score": 6.470588235294118,
+        "vulnerabilities": [
+            "poison",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "psychic",
+            "ghost",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "00",
+        "primary type": "normal",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "fighting"
+        ],
+        "resistances": [
+            "ghost"
+        ]
+    },
+    {
+        "id": "10",
+        "primary type": "fire",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "bug",
+            "ghost",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "11",
+        "primary type": "fire",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "20",
+        "primary type": "water",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "fighting"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "ghost",
+            "steel"
+        ]
+    },
+    {
+        "id": "22",
+        "primary type": "water",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "grass",
+            "electric"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "steel"
+        ]
+    },
+    {
+        "id": "74",
+        "primary type": "poison",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "ground",
+            "psychic"
+        ],
+        "resistances": [
+            "grass",
+            "electric",
+            "fighting",
+            "poison",
+            "flying",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "82",
+        "primary type": "ground",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "grass"
+        ],
+        "resistances": [
+            "fire",
+            "electric",
+            "poison",
+            "rock",
+            "steel"
+        ]
+    },
+    {
+        "id": "90",
+        "primary type": "flying",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "ground",
+            "bug",
+            "ghost"
+        ]
+    },
+    {
+        "id": "114",
+        "primary type": "bug",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "fire",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "electric",
+            "fighting",
+            "steel"
+        ]
+    },
+    {
+        "id": "141",
+        "primary type": "dragon",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "ground",
+            "rock",
+            "dragon"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "electric",
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": "142",
+        "primary type": "dragon",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "steel"
+        ]
+    },
+    {
+        "id": "1413",
+        "primary type": "dragon",
+        "secondary type": "ghost",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "ice",
+            "ghost",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "poison",
+            "bug"
+        ]
+    },
+    {
+        "id": "161",
+        "primary type": "dark",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "psychic",
+            "ghost",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "178",
+        "primary type": "fairy",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 6.2745098039215685,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "steel"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "bug",
+            "rock",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "87",
+        "primary type": "ground",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 6.078431372549019,
+        "vulnerabilities": [
+            "water",
+            "ice",
+            "ground",
+            "psychic"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "poison",
+            "bug",
+            "rock",
+            "fairy"
+        ]
+    },
+    {
+        "id": "136",
+        "primary type": "ghost",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 6.078431372549019,
+        "vulnerabilities": [
+            "flying",
+            "psychic",
+            "ghost",
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "poison",
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "id": "138",
+        "primary type": "ghost",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 6.078431372549019,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "electric",
+            "fighting",
+            "poison",
+            "bug",
+            "rock"
+        ]
+    },
+    {
+        "id": "139",
+        "primary type": "ghost",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 6.078431372549019,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "fighting",
+            "poison",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "147",
+        "primary type": "dragon",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 6.078431372549019,
+        "vulnerabilities": [
+            "ice",
+            "ground",
+            "psychic",
+            "dragon"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "poison",
+            "bug"
+        ]
+    },
+    {
+        "id": "64",
+        "primary type": "fighting",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "ground",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "electric",
+            "bug",
+            "rock",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "81",
+        "primary type": "ground",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "water",
+            "ground"
+        ],
+        "resistances": [
+            "fire",
+            "electric",
+            "poison",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "91",
+        "primary type": "flying",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "water",
+            "electric",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "92",
+        "primary type": "flying",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "electric",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "fighting",
+            "ground",
+            "bug",
+            "steel"
+        ]
+    },
+    {
+        "id": "98",
+        "primary type": "flying",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "water",
+            "ice"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "poison",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "99",
+        "primary type": "flying",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "100",
+        "primary type": "psychic",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "bug",
+            "dark"
+        ],
+        "resistances": [
+            "psychic",
+            "ghost"
+        ]
+    },
+    {
+        "id": "112",
+        "primary type": "bug",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "electric",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "water",
+            "ice",
+            "fighting",
+            "ground",
+            "steel"
+        ]
+    },
+    {
+        "id": "164",
+        "primary type": "dark",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "fighting",
+            "ground",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "electric",
+            "flying",
+            "psychic",
+            "ghost",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "169",
+        "primary type": "dark",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "rock",
+            "fairy"
+        ],
+        "resistances": [
+            "grass",
+            "ground",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "179",
+        "primary type": "fairy",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 5.882352941176471,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "poison",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "31",
+        "primary type": "grass",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "poison",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "electric",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "41",
+        "primary type": "electric",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "electric",
+            "ice",
+            "flying",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "61",
+        "primary type": "fighting",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "flying",
+            "psychic"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "bug",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "107",
+        "primary type": "psychic",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "ground",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "poison",
+            "fairy"
+        ]
+    },
+    {
+        "id": "144",
+        "primary type": "dragon",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "ice",
+            "ground",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "flying",
+            "steel"
+        ]
+    },
+    {
+        "id": "1710",
+        "primary type": "fairy",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 5.686274509803921,
+        "vulnerabilities": [
+            "poison",
+            "ghost",
+            "steel"
+        ],
+        "resistances": [
+            "fighting",
+            "psychic",
+            "dragon"
+        ]
+    },
+    {
+        "id": "80",
+        "primary type": "ground",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "fighting"
+        ],
+        "resistances": [
+            "electric",
+            "poison",
+            "rock",
+            "ghost"
+        ]
+    },
+    {
+        "id": "84",
+        "primary type": "ground",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "ground"
+        ],
+        "resistances": [
+            "electric",
+            "poison",
+            "flying",
+            "rock",
+            "steel"
+        ]
+    },
+    {
+        "id": "88",
+        "primary type": "ground",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "resistances": [
+            "electric",
+            "poison",
+            "rock"
+        ]
+    },
+    {
+        "id": "110",
+        "primary type": "bug",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "id": "117",
+        "primary type": "bug",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "psychic",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "poison",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "133",
+        "primary type": "ghost",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "flying",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "ground"
+        ]
+    },
+    {
+        "id": "1311",
+        "primary type": "ghost",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "fighting",
+            "poison",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "140",
+        "primary type": "dragon",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "ice",
+            "fighting",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "ghost"
+        ]
+    },
+    {
+        "id": "1414",
+        "primary type": "dragon",
+        "secondary type": "dragon",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric"
+        ]
+    },
+    {
+        "id": "162",
+        "primary type": "dark",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "psychic",
+            "ghost",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "1616",
+        "primary type": "dark",
+        "secondary type": "dark",
+        "offensive score": 0,
+        "defensive score": 5.490196078431373,
+        "vulnerabilities": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "32",
+        "primary type": "grass",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 5.294117647058823,
+        "vulnerabilities": [
+            "poison",
+            "flying",
+            "bug"
+        ],
+        "resistances": [
+            "water",
+            "ground",
+            "steel"
+        ]
+    },
+    {
+        "id": "71",
+        "primary type": "poison",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.294117647058823,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "psychic",
+            "rock"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "fighting",
+            "poison",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "73",
+        "primary type": "poison",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 5.294117647058823,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "flying",
+            "psychic"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1711",
+        "primary type": "fairy",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 5.294117647058823,
+        "vulnerabilities": [
+            "fire",
+            "poison",
+            "flying",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "60",
+        "primary type": "fighting",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "fighting",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "bug",
+            "rock",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "62",
+        "primary type": "fighting",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "bug",
+            "rock",
+            "steel",
+            "dark"
+        ]
+    },
+    {
+        "id": "66",
+        "primary type": "fighting",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "bug",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "101",
+        "primary type": "psychic",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "fire",
+            "grass",
+            "ice",
+            "fighting",
+            "psychic",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "104",
+        "primary type": "psychic",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "ground",
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "flying",
+            "psychic",
+            "steel"
+        ]
+    },
+    {
+        "id": "118",
+        "primary type": "bug",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "fire",
+            "water",
+            "ice",
+            "flying"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "poison",
+            "ground"
+        ]
+    },
+    {
+        "id": "1111",
+        "primary type": "bug",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground"
+        ]
+    },
+    {
+        "id": "129",
+        "primary type": "rock",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "water",
+            "electric",
+            "ice",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "ground",
+            "flying",
+            "bug"
+        ]
+    },
+    {
+        "id": "135",
+        "primary type": "ghost",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "fire",
+            "rock",
+            "ghost",
+            "steel",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "ice",
+            "fighting",
+            "poison",
+            "bug"
+        ]
+    },
+    {
+        "id": "1512",
+        "primary type": "steel",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "rock",
+            "dragon",
+            "fairy"
+        ]
+    },
+    {
+        "id": "176",
+        "primary type": "fairy",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 5.098039215686274,
+        "vulnerabilities": [
+            "poison",
+            "flying",
+            "psychic",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "fighting",
+            "bug",
+            "rock",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "43",
+        "primary type": "electric",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "bug"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "steel"
+        ]
+    },
+    {
+        "id": "76",
+        "primary type": "poison",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "ground",
+            "flying",
+            "psychic"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "poison",
+            "bug",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "96",
+        "primary type": "flying",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "dark"
+        ]
+    },
+    {
+        "id": "111",
+        "primary type": "bug",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "water",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "ice",
+            "fighting",
+            "bug",
+            "steel",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1312",
+        "primary type": "ghost",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ground",
+            "ghost",
+            "steel",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "fighting",
+            "poison",
+            "flying",
+            "bug"
+        ]
+    },
+    {
+        "id": "155",
+        "primary type": "steel",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 4.901960784313725,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "grass",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "bug",
+            "dragon",
+            "fairy"
+        ]
+    },
+    {
+        "id": "102",
+        "primary type": "psychic",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "ice",
+            "fighting",
+            "psychic",
+            "steel"
+        ]
+    },
+    {
+        "id": "106",
+        "primary type": "psychic",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "flying",
+            "ghost",
+            "fairy"
+        ],
+        "resistances": [
+            "fighting",
+            "rock"
+        ]
+    },
+    {
+        "id": "1010",
+        "primary type": "psychic",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "fighting",
+            "psychic"
+        ]
+    },
+    {
+        "id": "1211",
+        "primary type": "rock",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "water",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "poison"
+        ]
+    },
+    {
+        "id": "168",
+        "primary type": "dark",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "electric",
+            "poison",
+            "psychic",
+            "rock",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "1611",
+        "primary type": "dark",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 4.705882352941177,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "bug",
+            "rock",
+            "fairy"
+        ],
+        "resistances": [
+            "grass",
+            "ground",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "109",
+        "primary type": "psychic",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 4.509803921568627,
+        "vulnerabilities": [
+            "electric",
+            "ice",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "psychic"
+        ]
+    },
+    {
+        "id": "149",
+        "primary type": "dragon",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 4.509803921568627,
+        "vulnerabilities": [
+            "ice",
+            "rock",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "1411",
+        "primary type": "dragon",
+        "secondary type": "bug",
+        "offensive score": 0,
+        "defensive score": 4.509803921568627,
+        "vulnerabilities": [
+            "ice",
+            "flying",
+            "rock",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "ground"
+        ]
+    },
+    {
+        "id": "166",
+        "primary type": "dark",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 4.509803921568627,
+        "vulnerabilities": [
+            "fighting",
+            "flying",
+            "fairy"
+        ],
+        "resistances": [
+            "psychic",
+            "rock",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "54",
+        "primary type": "ice",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 4.313725490196079,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "electric",
+            "ice",
+            "flying"
+        ]
+    },
+    {
+        "id": "75",
+        "primary type": "poison",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 4.313725490196079,
+        "vulnerabilities": [
+            "fire",
+            "ground",
+            "psychic",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "ice",
+            "poison",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "148",
+        "primary type": "dragon",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 4.313725490196079,
+        "vulnerabilities": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "electric",
+            "poison",
+            "rock"
+        ]
+    },
+    {
+        "id": "160",
+        "primary type": "dark",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 4.313725490196079,
+        "vulnerabilities": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "1712",
+        "primary type": "fairy",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 4.313725490196079,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ground",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "flying",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "52",
+        "primary type": "ice",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 4.117647058823529,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "fighting",
+            "rock"
+        ],
+        "resistances": [
+            "water",
+            "ice"
+        ]
+    },
+    {
+        "id": "86",
+        "primary type": "ground",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 4.117647058823529,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "electric",
+            "poison",
+            "bug",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "127",
+        "primary type": "rock",
+        "secondary type": "poison",
+        "offensive score": 0,
+        "defensive score": 4.117647058823529,
+        "vulnerabilities": [
+            "water",
+            "ground",
+            "psychic",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "flying",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "30",
+        "primary type": "grass",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "fighting",
+            "poison",
+            "flying",
+            "bug"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground",
+            "ghost"
+        ]
+    },
+    {
+        "id": "33",
+        "primary type": "grass",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "bug"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground"
+        ]
+    },
+    {
+        "id": "108",
+        "primary type": "psychic",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "electric",
+            "fighting",
+            "poison",
+            "psychic",
+            "rock"
+        ]
+    },
+    {
+        "id": "123",
+        "primary type": "rock",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "ice",
+            "fighting",
+            "bug",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "electric"
+        ]
+    },
+    {
+        "id": "1212",
+        "primary type": "rock",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "1310",
+        "primary type": "ghost",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fighting",
+            "poison",
+            "psychic"
+        ]
+    },
+    {
+        "id": "1410",
+        "primary type": "dragon",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "ice",
+            "bug",
+            "ghost",
+            "dragon",
+            "dark",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "psychic"
+        ]
+    },
+    {
+        "id": "1610",
+        "primary type": "dark",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "psychic"
+        ]
+    },
+    {
+        "id": "1614",
+        "primary type": "dark",
+        "secondary type": "dragon",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "ice",
+            "fighting",
+            "bug",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "173",
+        "primary type": "fairy",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 3.9215686274509802,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "steel"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "ground",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "122",
+        "primary type": "rock",
+        "secondary type": "water",
+        "offensive score": 0,
+        "defensive score": 3.7254901960784315,
+        "vulnerabilities": [
+            "grass",
+            "electric",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "ice",
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "124",
+        "primary type": "rock",
+        "secondary type": "electric",
+        "offensive score": 0,
+        "defensive score": 3.7254901960784315,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "electric",
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "1412",
+        "primary type": "dragon",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 3.7254901960784315,
+        "vulnerabilities": [
+            "ice",
+            "fighting",
+            "ground",
+            "dragon",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "electric",
+            "poison",
+            "flying"
+        ]
+    },
+    {
+        "id": "55",
+        "primary type": "ice",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "ice"
+        ]
+    },
+    {
+        "id": "85",
+        "primary type": "ground",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "fire",
+            "water",
+            "grass",
+            "fighting",
+            "steel"
+        ],
+        "resistances": [
+            "electric",
+            "poison"
+        ]
+    },
+    {
+        "id": "116",
+        "primary type": "bug",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "dark"
+        ]
+    },
+    {
+        "id": "145",
+        "primary type": "dragon",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "fighting",
+            "rock",
+            "dragon",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric"
+        ]
+    },
+    {
+        "id": "146",
+        "primary type": "dragon",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "ice",
+            "flying",
+            "psychic",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "fire",
+            "water",
+            "grass",
+            "electric",
+            "bug",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "175",
+        "primary type": "fairy",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 3.5294117647058827,
+        "vulnerabilities": [
+            "fire",
+            "poison",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "ice",
+            "bug",
+            "dragon",
+            "dark"
+        ]
+    },
+    {
+        "id": "51",
+        "primary type": "ice",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 3.333333333333333,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "ice",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "1110",
+        "primary type": "bug",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 3.333333333333333,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "bug",
+            "rock",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "psychic"
+        ]
+    },
+    {
+        "id": "83",
+        "primary type": "ground",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 3.1372549019607843,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "flying",
+            "bug"
+        ],
+        "resistances": [
+            "electric",
+            "ground",
+            "rock"
+        ]
+    },
+    {
+        "id": "95",
+        "primary type": "flying",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 3.1372549019607843,
+        "vulnerabilities": [
+            "fire",
+            "electric",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "119",
+        "primary type": "bug",
+        "secondary type": "flying",
+        "offensive score": 0,
+        "defensive score": 3.1372549019607843,
+        "vulnerabilities": [
+            "fire",
+            "electric",
+            "ice",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "grass",
+            "fighting",
+            "ground",
+            "bug"
+        ]
+    },
+    {
+        "id": "120",
+        "primary type": "rock",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 3.1372549019607843,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "flying",
+            "ghost"
+        ]
+    },
+    {
+        "id": "126",
+        "primary type": "rock",
+        "secondary type": "fighting",
+        "offensive score": 0,
+        "defensive score": 3.1372549019607843,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "psychic",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "bug",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "93",
+        "primary type": "flying",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 2.9411764705882355,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "rock"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "fighting",
+            "ground"
+        ]
+    },
+    {
+        "id": "121",
+        "primary type": "rock",
+        "secondary type": "fire",
+        "offensive score": 0,
+        "defensive score": 2.9411764705882355,
+        "vulnerabilities": [
+            "water",
+            "fighting",
+            "ground",
+            "rock"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "bug",
+            "fairy"
+        ]
+    },
+    {
+        "id": "50",
+        "primary type": "ice",
+        "secondary type": "normal",
+        "offensive score": 0,
+        "defensive score": 2.7450980392156863,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "ice",
+            "ghost"
+        ]
+    },
+    {
+        "id": "65",
+        "primary type": "fighting",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 2.7450980392156863,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "flying",
+            "psychic",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "ice",
+            "bug",
+            "dark"
+        ]
+    },
+    {
+        "id": "1210",
+        "primary type": "rock",
+        "secondary type": "psychic",
+        "offensive score": 0,
+        "defensive score": 2.7450980392156863,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ground",
+            "bug",
+            "ghost",
+            "steel",
+            "dark"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "flying",
+            "psychic"
+        ]
+    },
+    {
+        "id": "63",
+        "primary type": "fighting",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 2.3529411764705883,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground",
+            "rock",
+            "dark"
+        ]
+    },
+    {
+        "id": "105",
+        "primary type": "psychic",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 2.3529411764705883,
+        "vulnerabilities": [
+            "fire",
+            "bug",
+            "rock",
+            "ghost",
+            "steel",
+            "dark"
+        ],
+        "resistances": [
+            "ice",
+            "psychic"
+        ]
+    },
+    {
+        "id": "163",
+        "primary type": "dark",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 2.3529411764705883,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "fighting",
+            "poison",
+            "flying",
+            "bug",
+            "fairy"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "1612",
+        "primary type": "dark",
+        "secondary type": "rock",
+        "offensive score": 0,
+        "defensive score": 2.3529411764705883,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "bug",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "poison",
+            "flying",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "143",
+        "primary type": "dragon",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 2.1568627450980395,
+        "vulnerabilities": [
+            "ice",
+            "poison",
+            "flying",
+            "bug",
+            "dragon",
+            "fairy"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground"
+        ]
+    },
+    {
+        "id": "165",
+        "primary type": "dark",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 1.9607843137254901,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "bug",
+            "rock",
+            "steel",
+            "fairy"
+        ],
+        "resistances": [
+            "ice",
+            "psychic",
+            "ghost",
+            "dark"
+        ]
+    },
+    {
+        "id": "103",
+        "primary type": "psychic",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 1.5686274509803921,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "ground",
+            "psychic"
+        ]
+    },
+    {
+        "id": "128",
+        "primary type": "rock",
+        "secondary type": "ground",
+        "offensive score": 0,
+        "defensive score": 1.3725490196078431,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "ice",
+            "fighting",
+            "ground",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "fire",
+            "electric",
+            "poison",
+            "flying",
+            "rock"
+        ]
+    },
+    {
+        "id": "115",
+        "primary type": "bug",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 1.1764705882352942,
+        "vulnerabilities": [
+            "fire",
+            "flying",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "grass",
+            "ice",
+            "ground"
+        ]
+    },
+    {
+        "id": "53",
+        "primary type": "ice",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 0.7843137254901961,
+        "vulnerabilities": [
+            "fire",
+            "fighting",
+            "poison",
+            "flying",
+            "bug",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "ground"
+        ]
+    },
+    {
+        "id": "113",
+        "primary type": "bug",
+        "secondary type": "grass",
+        "offensive score": 0,
+        "defensive score": 0.7843137254901961,
+        "vulnerabilities": [
+            "fire",
+            "ice",
+            "poison",
+            "flying",
+            "bug",
+            "rock"
+        ],
+        "resistances": [
+            "water",
+            "grass",
+            "electric",
+            "fighting",
+            "ground"
+        ]
+    },
+    {
+        "id": "125",
+        "primary type": "rock",
+        "secondary type": "ice",
+        "offensive score": 0,
+        "defensive score": 0,
+        "vulnerabilities": [
+            "water",
+            "grass",
+            "fighting",
+            "ground",
+            "rock",
+            "steel"
+        ],
+        "resistances": [
+            "normal",
+            "ice",
+            "poison",
+            "flying"
+        ]
+    }
+]
