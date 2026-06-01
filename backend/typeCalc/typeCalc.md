@@ -1,9 +1,7 @@
-Type Coverage is able to handle the effectiveness of dual types by giving a mult score.
+Type Coverage is able to represent the effectiveness of dual types by giving a mult score.
 
 Most effective types for combat will have high mult score. - prioritize these for movesets
 
 Offense and Defense scores are rated on a scale of 10.
 
-Make a function that can create a defensive coverage score based on type-defense and type-variety of a team.
-* Find a way to calculate type-variety. - so that teams are not based on one type-matchup
-
+TypeData.json is the result of all calculations in this folder - currently biased against normal types and status moves (stats, conditions, special effects), which I'm not sure how to effectively represent.

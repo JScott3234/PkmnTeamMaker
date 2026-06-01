@@ -2,10 +2,10 @@
 
 // To Note: 
 // - Abilites are not yet reflected in these calculations
-// - Moves are not yet reflected in these calculations
+// - Move statistics are not yet reflected in these calculations
 // - Normal Type moves, and moves inflicting status effects are not yet reflected in these calculations as they are heavily nuanced.
 
-// TODO: create a JSON file for listing each dual type with added defense scores, add single types for offensive scores: all for easy access
+//TODO: Calculate defensive scores based on multiplying defRating by percent of pokemon that can use a move that super-effects it.
 
 
 const { getEffectiveness, types } = require('./typeCoverage');
@@ -75,7 +75,7 @@ function getDefenseScoreList() {
         }
         type1++;
     }
-    /* Making a Statistic To Represent Values Based on a 1-10 Scale*/
+    // Making a Statistic To Represent Values Based on a 1-10 Scale
     scores.sort((a, b) => a.score - b.score); // returns sorted list (lowest to highest as def is inverse of off)
     let maxScore = scores[0].score;
     let minScore = scores[scores.length - 1].score;
@@ -86,7 +86,7 @@ function getDefenseScoreList() {
 //console.log(getOffenseScoreList()); //Debug
 //console.log(getDefenseScoreList()); //Debug
 
-// TODO: Use JSON to store values instead of txt files
+// old .txt output
 /*const fs = require('fs');
 const defOut = getDefenseScoreList();
 const defOutStr = defOut.map(item => `${item.name}${item.score}`).join('\n');

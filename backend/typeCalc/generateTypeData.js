@@ -1,11 +1,11 @@
 const fs = require('fs');
-const { getDefenseScoreList } = require('./offDefCalc');
+const { getDefenseScoreList, getOffenseScore} = require('./offDefCalc');
 const { getVulnerabilities, getResistances, types } = require('./typeCoverage');
 
 // Get the score list (already sorted and formatted in offDefCalc)
-const scores = getDefenseScoreList();
+const defscores = getDefenseScoreList();
 
-const detailedData = scores.map(item => {
+const detailedData = defscores.map(item => {
     // item.name is formatted as "type1/type2: "
     // Remove the trailing ": " and split by "/"
     const namePart = item.name.replace(': ', '');
@@ -13,10 +13,10 @@ const detailedData = scores.map(item => {
 
     return {
         "id": `${types[type1]}${types[type2]}`,
-        "primary type": type1,
-        "secondary type": type2,
-        "offensive score": 0, // Placeholder
-        "defensive score": item.score,
+        "primaryType": type1,
+        "secondaryType": type2,
+        "offScore": getOffenseScore(types[type1]) + getOffenseScore(types[type2]), // Score out of 20 to avoid monotype offensive bias (still occurs??)
+        "defRating": item.score,
         "vulnerabilities": getVulnerabilities(type1, type2),
         "resistances": getResistances(type1, type2)
     };
