@@ -1,4 +1,30 @@
-:root {
+#root{
+  background-color:cadetblue;
+}
+
+html{
+  background-color: #16171d;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+Source - https://stackoverflow.com/a/4617920
+Posted by Rion Williams
+Retrieved 2026-06-05, License - CC BY-SA 2.5
+*/
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+/*:root {
   --text: #6b6375;
   --text-h: #08060d;
   --bg: #fff;
