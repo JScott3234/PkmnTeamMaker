@@ -1,6 +1,5 @@
 // Library Of Functions To Help With Statistical Analysis
 
-
 /**
  * Converts a score to a viability score based on the maximum and minimum possible scores.
  * @param {number} score - The score to convert.

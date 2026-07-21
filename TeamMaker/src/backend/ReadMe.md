@@ -1,1 +1,0 @@
-When I hook up the PokemonAPI, I need to ingest the data, then refresh it every once in a while -Upon request of certain data (scheduled updates?)

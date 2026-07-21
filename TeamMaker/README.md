@@ -41,7 +41,4 @@ Pokemon are also categorized by their competitive viability, such as:
 Which are all determined by IV and EV spreads, as well as movepools, abilities, and items.
 
 
-
-* Carson Recommended the Creation of an ELO system to constantly calculate the viability of pokemon in the current meta. - ELOs are stupid :/
-
 Instructs: Make sure to npm install in frontend - gitignore all personal data
